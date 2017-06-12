@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WroclawRolki</string>
+    <string name="exit">Exit</string>
+    <string name="options">Options</string>
+    <string name="show_tracks">Show tracks</string>
+    <string name="add_track">Add track</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

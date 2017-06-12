@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "725526618335",
+    "firebase_url": "https://rolki-wroclaw.firebaseio.com",
+    "project_id": "rolki-wroclaw",
+    "storage_bucket": "rolki-wroclaw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725526618335:android:7628999e6e711209",
+        "android_client_info": {
+          "package_name": "com.company.andrzej.rolki.wroclawrolki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725526618335-5dj7k6crjiusn7acmb501jqk4qkr8qgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFuP6o_rhVpuQ2JZeyAuF8GQg5byiVUo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
